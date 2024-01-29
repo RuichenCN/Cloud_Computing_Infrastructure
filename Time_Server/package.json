@@ -1,0 +1,11 @@
+{
+  "name": "time_server",
+  "version": "1.0.0",
+  "description": "CS571 project",
+  "main": "time_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julian",
+  "license": "ISC"
+}
